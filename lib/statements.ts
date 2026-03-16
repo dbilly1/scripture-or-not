@@ -6503,4 +6503,1692 @@ export const ALL_STATEMENTS: Statement[] = [
     isScripture: false,
     ref: "William Shakespeare, King Lear (1606)",
   },
+
+  // ============================================================
+  // BATCH 4: VERIFIED KJV SCRIPTURES (~276 to reach 1000)
+  // ============================================================
+
+  // --- GENESIS (final) ---
+  {
+    text: "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
+    isScripture: true,
+    ref: "Genesis 1:5",
+  },
+  {
+    text: "And God said, Let us make man in our image, after our likeness.",
+    isScripture: true,
+    ref: "Genesis 1:26",
+  },
+  {
+    text: "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs.",
+    isScripture: true,
+    ref: "Genesis 2:21",
+  },
+  {
+    text: "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken.",
+    isScripture: true,
+    ref: "Genesis 3:19",
+  },
+  {
+    text: "For dust thou art, and unto dust shalt thou return.",
+    isScripture: true,
+    ref: "Genesis 3:19",
+  },
+  {
+    text: "And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground.",
+    isScripture: true,
+    ref: "Genesis 4:10",
+  },
+  {
+    text: "And Jacob was left alone; and there wrestled a man with him until the breaking of the day.",
+    isScripture: true,
+    ref: "Genesis 32:24",
+  },
+  {
+    text: "And he said, Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men.",
+    isScripture: true,
+    ref: "Genesis 32:28",
+  },
+  {
+    text: "Behold, the LORD stood above it, and said, I am the LORD God of Abraham thy father, and the God of Isaac.",
+    isScripture: true,
+    ref: "Genesis 28:13",
+  },
+  {
+    text: "So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.",
+    isScripture: true,
+    ref: "Genesis 50:26",
+  },
+
+  // --- EXODUS (final) ---
+  {
+    text: "And I will harden Pharaoh's heart, and multiply my signs and my wonders in the land of Egypt.",
+    isScripture: true,
+    ref: "Exodus 7:3",
+  },
+  {
+    text: "And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night.",
+    isScripture: true,
+    ref: "Exodus 14:21",
+  },
+  {
+    text: "The LORD is a man of war: the LORD is his name.",
+    isScripture: true,
+    ref: "Exodus 15:3",
+  },
+  {
+    text: "And the LORD said unto Moses, Behold, I will rain bread from heaven for you.",
+    isScripture: true,
+    ref: "Exodus 16:4",
+  },
+  {
+    text: "And Moses went up unto God, and the LORD called unto him out of the mountain, saying, Thus shalt thou say to the house of Jacob.",
+    isScripture: true,
+    ref: "Exodus 19:3",
+  },
+  {
+    text: "And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.",
+    isScripture: true,
+    ref: "Exodus 34:5",
+  },
+
+  // --- LEVITICUS (additional) ---
+  {
+    text: "And whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul.",
+    isScripture: true,
+    ref: "Leviticus 17:10",
+  },
+  {
+    text: "And if a stranger sojourn with thee in your land, ye shall not vex him. But the stranger that dwelleth with you shall be unto you as one born among you.",
+    isScripture: true,
+    ref: "Leviticus 19:33-34",
+  },
+
+  // --- NUMBERS (final) ---
+  {
+    text: "The LORD bless thee, and keep thee: The LORD make his face shine upon thee, and be gracious unto thee: The LORD lift up his countenance upon thee, and give thee peace.",
+    isScripture: true,
+    ref: "Numbers 6:24-26",
+  },
+  {
+    text: "And the LORD said, I have pardoned according to thy word.",
+    isScripture: true,
+    ref: "Numbers 14:20",
+  },
+  {
+    text: "And Moses was very meek, above all the men which were upon the face of the earth.",
+    isScripture: true,
+    ref: "Numbers 12:3",
+  },
+
+  // --- DEUTERONOMY (final) ---
+  {
+    text: "And thou shalt write them upon the posts of thy house, and on thy gates.",
+    isScripture: true,
+    ref: "Deuteronomy 6:9",
+  },
+  {
+    text: "For the LORD thy God is a consuming fire, even a jealous God.",
+    isScripture: true,
+    ref: "Deuteronomy 4:24",
+  },
+  {
+    text: "For the LORD thy God is God of gods, and Lord of lords, a great God, a mighty, and a terrible, which regardeth not persons, nor taketh reward.",
+    isScripture: true,
+    ref: "Deuteronomy 10:17",
+  },
+  {
+    text: "He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.",
+    isScripture: true,
+    ref: "Deuteronomy 32:10",
+  },
+  {
+    text: "As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings.",
+    isScripture: true,
+    ref: "Deuteronomy 32:11",
+  },
+
+  // --- PSALMS (final batch) ---
+  {
+    text: "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life.",
+    isScripture: true,
+    ref: "James 1:12",
+  },
+  {
+    text: "My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.",
+    isScripture: true,
+    ref: "Psalm 84:2",
+  },
+  {
+    text: "For the LORD God is a sun and shield: the LORD will give grace and glory.",
+    isScripture: true,
+    ref: "Psalm 84:11",
+  },
+  {
+    text: "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts.",
+    isScripture: true,
+    ref: "Psalm 84:3",
+  },
+  {
+    text: "They go from strength to strength, every one of them in Zion appeareth before God.",
+    isScripture: true,
+    ref: "Psalm 84:7",
+  },
+  {
+    text: "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.",
+    isScripture: true,
+    ref: "Psalm 89:15",
+  },
+  {
+    text: "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.",
+    isScripture: true,
+    ref: "Psalm 147:8",
+  },
+  {
+    text: "Praise the LORD, O Jerusalem; praise thy God, O Zion.",
+    isScripture: true,
+    ref: "Psalm 147:12",
+  },
+  {
+    text: "He hath not dealt so with any nation: and as for his judgments, they have not known them.",
+    isScripture: true,
+    ref: "Psalm 147:20",
+  },
+  {
+    text: "Fire, and hail; snow, and vapour; stormy wind fulfilling his word.",
+    isScripture: true,
+    ref: "Psalm 148:8",
+  },
+  {
+    text: "Kings of the earth, and all people; princes, and all judges of the earth: Both young men, and maidens; old men, and children: Let them praise the name of the LORD.",
+    isScripture: true,
+    ref: "Psalm 148:11-13",
+  },
+  {
+    text: "Let them sing praises unto him with the timbrel and harp.",
+    isScripture: true,
+    ref: "Psalm 149:3",
+  },
+  {
+    text: "Praise him with the sound of the trumpet: praise him with the psaltery and harp.",
+    isScripture: true,
+    ref: "Psalm 150:3",
+  },
+  {
+    text: "I will extol thee, O LORD; for thou hast lifted me up.",
+    isScripture: true,
+    ref: "Psalm 30:1",
+  },
+  {
+    text: "For his anger endureth but a moment; in his favour is life.",
+    isScripture: true,
+    ref: "Psalm 30:5",
+  },
+  {
+    text: "I cried to thee, O LORD; and unto the LORD I made supplication.",
+    isScripture: true,
+    ref: "Psalm 30:8",
+  },
+  {
+    text: "Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness.",
+    isScripture: true,
+    ref: "Psalm 30:11",
+  },
+  {
+    text: "To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.",
+    isScripture: true,
+    ref: "Psalm 30:12",
+  },
+  {
+    text: "In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness.",
+    isScripture: true,
+    ref: "Psalm 31:1",
+  },
+  {
+    text: "Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth.",
+    isScripture: true,
+    ref: "Psalm 31:5",
+  },
+  {
+    text: "But I trusted in thee, O LORD: I said, Thou art my God. My times are in thy hand.",
+    isScripture: true,
+    ref: "Psalm 31:14-15",
+  },
+  {
+    text: "Oh how great is thy goodness, which thou hast laid up for them that fear thee.",
+    isScripture: true,
+    ref: "Psalm 31:19",
+  },
+  {
+    text: "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD.",
+    isScripture: true,
+    ref: "Psalm 31:24",
+  },
+  {
+    text: "I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.",
+    isScripture: true,
+    ref: "Psalm 32:8",
+  },
+  {
+    text: "Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about.",
+    isScripture: true,
+    ref: "Psalm 32:10",
+  },
+  {
+    text: "Rejoice in the LORD, O ye righteous: for praise is comely for the upright.",
+    isScripture: true,
+    ref: "Psalm 33:1",
+  },
+  {
+    text: "The word of the LORD is right; and all his works are done in truth.",
+    isScripture: true,
+    ref: "Psalm 33:4",
+  },
+  {
+    text: "By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth.",
+    isScripture: true,
+    ref: "Psalm 33:6",
+  },
+  {
+    text: "Blessed is the nation whose God is the LORD; and the people whom he hath chosen for his own inheritance.",
+    isScripture: true,
+    ref: "Psalm 33:12",
+  },
+  {
+    text: "The LORD looketh from heaven; he beholdeth all the sons of men.",
+    isScripture: true,
+    ref: "Psalm 33:13",
+  },
+  {
+    text: "Our soul waiteth for the LORD: he is our help and our shield.",
+    isScripture: true,
+    ref: "Psalm 33:20",
+  },
+  {
+    text: "Let thy mercy, O LORD, be upon us, according as we hope in thee.",
+    isScripture: true,
+    ref: "Psalm 33:22",
+  },
+  {
+    text: "The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing.",
+    isScripture: true,
+    ref: "Psalm 34:10",
+  },
+  {
+    text: "Come, ye children, hearken unto me: I will teach you the fear of the LORD.",
+    isScripture: true,
+    ref: "Psalm 34:11",
+  },
+  {
+    text: "Keep thy tongue from evil, and thy lips from speaking guile.",
+    isScripture: true,
+    ref: "Psalm 34:13",
+  },
+  {
+    text: "Depart from evil, and do good; seek peace, and pursue it.",
+    isScripture: true,
+    ref: "Psalm 34:14",
+  },
+  {
+    text: "The righteous cry, and the LORD heareth, and delivereth them out of all their troubles.",
+    isScripture: true,
+    ref: "Psalm 34:17",
+  },
+  {
+    text: "Many are the afflictions of the righteous: but the LORD delivereth him out of them all.",
+    isScripture: true,
+    ref: "Psalm 34:19",
+  },
+  {
+    text: "The LORD redeemeth the soul of his servants: and none of them that trust in him shall be desolate.",
+    isScripture: true,
+    ref: "Psalm 34:22",
+  },
+  {
+    text: "How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.",
+    isScripture: true,
+    ref: "Psalm 36:7",
+  },
+  {
+    text: "For with thee is the fountain of life: in thy light shall we see light.",
+    isScripture: true,
+    ref: "Psalm 36:9",
+  },
+  {
+    text: "The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.",
+    isScripture: true,
+    ref: "Psalm 37:30",
+  },
+  {
+    text: "The law of his God is in his heart; none of his steps shall slide.",
+    isScripture: true,
+    ref: "Psalm 37:31",
+  },
+  {
+    text: "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land.",
+    isScripture: true,
+    ref: "Psalm 37:34",
+  },
+  {
+    text: "I have seen the wicked in great power, and spreading himself like a green bay tree.",
+    isScripture: true,
+    ref: "Psalm 37:35",
+  },
+  {
+    text: "Mark the perfect man, and behold the upright: for the end of that man is peace.",
+    isScripture: true,
+    ref: "Psalm 37:37",
+  },
+
+  // --- ISAIAH (final) ---
+  {
+    text: "Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness.",
+    isScripture: true,
+    ref: "Isaiah 5:20",
+  },
+  {
+    text: "And I heard the voice of the Lord, saying, Whom shall I send, and who will go for us?",
+    isScripture: true,
+    ref: "Isaiah 6:8",
+  },
+  {
+    text: "The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.",
+    isScripture: true,
+    ref: "Isaiah 9:2",
+  },
+  {
+    text: "He was despised and rejected of men; a man of sorrows, and acquainted with grief.",
+    isScripture: true,
+    ref: "Isaiah 53:3",
+  },
+  {
+    text: "Surely he hath borne our griefs, and carried our sorrows.",
+    isScripture: true,
+    ref: "Isaiah 53:4",
+  },
+  {
+    text: "With his stripes we are healed.",
+    isScripture: true,
+    ref: "Isaiah 53:5",
+  },
+  {
+    text: "He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so he opened not his mouth.",
+    isScripture: true,
+    ref: "Isaiah 53:7",
+  },
+  {
+    text: "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame.",
+    isScripture: true,
+    ref: "Isaiah 54:4",
+  },
+  {
+    text: "For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel.",
+    isScripture: true,
+    ref: "Isaiah 54:5",
+  },
+  {
+    text: "Incline your ear, and come unto me: hear, and your soul shall live.",
+    isScripture: true,
+    ref: "Isaiah 55:3",
+  },
+  {
+    text: "For my thoughts are not your thoughts, neither are your ways my ways, saith the LORD.",
+    isScripture: true,
+    ref: "Isaiah 55:8",
+  },
+  {
+    text: "Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free?",
+    isScripture: true,
+    ref: "Isaiah 58:6",
+  },
+  {
+    text: "Then shall thy light break forth as the morning, and thine health shall spring forth speedily.",
+    isScripture: true,
+    ref: "Isaiah 58:8",
+  },
+  {
+    text: "And the LORD shall guide thee continually, and satisfy thy soul in drought.",
+    isScripture: true,
+    ref: "Isaiah 58:11",
+  },
+  {
+    text: "Behold, the LORD's hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear.",
+    isScripture: true,
+    ref: "Isaiah 59:1",
+  },
+
+  // --- JEREMIAH (final) ---
+  {
+    text: "Thus saith the LORD, Stand ye in the ways, and see, and ask for the old paths, where is the good way, and walk therein, and ye shall find rest for your souls.",
+    isScripture: true,
+    ref: "Jeremiah 6:16",
+  },
+  {
+    text: "Is there no balm in Gilead; is there no physician there? why then is not the health of the daughter of my people recovered?",
+    isScripture: true,
+    ref: "Jeremiah 8:22",
+  },
+  {
+    text: "Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches.",
+    isScripture: true,
+    ref: "Jeremiah 9:23",
+  },
+  {
+    text: "But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the LORD which exercise lovingkindness, judgment, and righteousness in the earth.",
+    isScripture: true,
+    ref: "Jeremiah 9:24",
+  },
+  {
+    text: "Thus saith the LORD, Cursed be the man that trusteth in man, and maketh flesh his arm.",
+    isScripture: true,
+    ref: "Jeremiah 17:5",
+  },
+  {
+    text: "Blessed is the man that trusteth in the LORD, and whose hope the LORD is. For he shall be as a tree planted by the waters.",
+    isScripture: true,
+    ref: "Jeremiah 17:7-8",
+  },
+  {
+    text: "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
+    isScripture: true,
+    ref: "Jeremiah 29:11",
+  },
+  {
+    text: "Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.",
+    isScripture: true,
+    ref: "Jeremiah 29:12",
+  },
+  {
+    text: "And ye shall seek me, and find me, when ye shall search for me with all your heart.",
+    isScripture: true,
+    ref: "Jeremiah 29:13",
+  },
+
+  // --- ROMANS (final additions) ---
+  {
+    text: "For none of us liveth to himself, and no man dieth to himself.",
+    isScripture: true,
+    ref: "Romans 14:7",
+  },
+  {
+    text: "So then every one of us shall give account of himself to God.",
+    isScripture: true,
+    ref: "Romans 14:12",
+  },
+  {
+    text: "For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.",
+    isScripture: true,
+    ref: "Romans 14:17",
+  },
+  {
+    text: "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.",
+    isScripture: true,
+    ref: "Romans 15:1",
+  },
+
+  // --- 1 CORINTHIANS (final) ---
+  {
+    text: "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him.",
+    isScripture: true,
+    ref: "1 Corinthians 2:9",
+  },
+  {
+    text: "But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him.",
+    isScripture: true,
+    ref: "1 Corinthians 2:14",
+  },
+  {
+    text: "Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.",
+    isScripture: true,
+    ref: "1 Corinthians 3:8",
+  },
+  {
+    text: "For we are labourers together with God: ye are God's husbandry, ye are God's building.",
+    isScripture: true,
+    ref: "1 Corinthians 3:9",
+  },
+  {
+    text: "Wherefore let him that thinketh he standeth take heed lest he fall.",
+    isScripture: true,
+    ref: "1 Corinthians 10:12",
+  },
+  {
+    text: "Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.",
+    isScripture: true,
+    ref: "1 Corinthians 10:31",
+  },
+  {
+    text: "For as often as ye eat this bread, and drink this cup, ye do shew the Lord's death till he come.",
+    isScripture: true,
+    ref: "1 Corinthians 11:26",
+  },
+  {
+    text: "For the body is not one member, but many.",
+    isScripture: true,
+    ref: "1 Corinthians 12:14",
+  },
+  {
+    text: "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.",
+    isScripture: true,
+    ref: "1 Corinthians 12:26",
+  },
+  {
+    text: "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+    isScripture: true,
+    ref: "1 Corinthians 13:1",
+  },
+  {
+    text: "And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.",
+    isScripture: true,
+    ref: "1 Corinthians 13:3",
+  },
+  {
+    text: "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known.",
+    isScripture: true,
+    ref: "1 Corinthians 13:12",
+  },
+  {
+    text: "In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible.",
+    isScripture: true,
+    ref: "1 Corinthians 15:52",
+  },
+  {
+    text: "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord.",
+    isScripture: true,
+    ref: "1 Corinthians 15:58",
+  },
+
+  // --- 2 CORINTHIANS (final) ---
+  {
+    text: "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort.",
+    isScripture: true,
+    ref: "2 Corinthians 1:3",
+  },
+  {
+    text: "Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble.",
+    isScripture: true,
+    ref: "2 Corinthians 1:4",
+  },
+  {
+    text: "Ye are our epistle written in our hearts, known and read of all men.",
+    isScripture: true,
+    ref: "2 Corinthians 3:2",
+  },
+  {
+    text: "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.",
+    isScripture: true,
+    ref: "2 Corinthians 4:7",
+  },
+  {
+    text: "We are troubled on every side, yet not distressed; we are perplexed, but not in despair.",
+    isScripture: true,
+    ref: "2 Corinthians 4:8",
+  },
+  {
+    text: "Persecuted, but not forsaken; cast down, but not destroyed.",
+    isScripture: true,
+    ref: "2 Corinthians 4:9",
+  },
+  {
+    text: "For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory.",
+    isScripture: true,
+    ref: "2 Corinthians 4:17",
+  },
+  {
+    text: "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+    isScripture: true,
+    ref: "2 Corinthians 4:18",
+  },
+  {
+    text: "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.",
+    isScripture: true,
+    ref: "2 Corinthians 5:1",
+  },
+  {
+    text: "Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord.",
+    isScripture: true,
+    ref: "2 Corinthians 5:6",
+  },
+  {
+    text: "Wherefore henceforth know we no man after the flesh.",
+    isScripture: true,
+    ref: "2 Corinthians 5:16",
+  },
+  {
+    text: "Now then we are ambassadors for Christ, as though God did beseech you by us: be ye reconciled to God.",
+    isScripture: true,
+    ref: "2 Corinthians 5:20",
+  },
+  {
+    text: "Behold, now is the accepted time; behold, now is the day of salvation.",
+    isScripture: true,
+    ref: "2 Corinthians 6:2",
+  },
+  {
+    text: "Come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you.",
+    isScripture: true,
+    ref: "2 Corinthians 6:17",
+  },
+  {
+    text: "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.",
+    isScripture: true,
+    ref: "2 Corinthians 7:10",
+  },
+  {
+    text: "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.",
+    isScripture: true,
+    ref: "2 Corinthians 9:7",
+  },
+
+  // --- EPHESIANS (final) ---
+  {
+    text: "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ.",
+    isScripture: true,
+    ref: "Ephesians 1:3",
+  },
+  {
+    text: "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace.",
+    isScripture: true,
+    ref: "Ephesians 1:7",
+  },
+  {
+    text: "That ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints.",
+    isScripture: true,
+    ref: "Ephesians 1:18",
+  },
+  {
+    text: "Even when we were dead in sins, hath quickened us together with Christ.",
+    isScripture: true,
+    ref: "Ephesians 2:5",
+  },
+  {
+    text: "For we are his workmanship, created in Christ Jesus unto good works.",
+    isScripture: true,
+    ref: "Ephesians 2:10",
+  },
+  {
+    text: "For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us.",
+    isScripture: true,
+    ref: "Ephesians 2:14",
+  },
+  {
+    text: "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us.",
+    isScripture: true,
+    ref: "Ephesians 3:20",
+  },
+  {
+    text: "Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.",
+    isScripture: true,
+    ref: "Ephesians 3:21",
+  },
+  {
+    text: "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called.",
+    isScripture: true,
+    ref: "Ephesians 4:1",
+  },
+  {
+    text: "Speaking the truth in love, may grow up into him in all things, which is the head, even Christ.",
+    isScripture: true,
+    ref: "Ephesians 4:15",
+  },
+  {
+    text: "Be ye angry, and sin not: let not the sun go down upon your wrath.",
+    isScripture: true,
+    ref: "Ephesians 4:26",
+  },
+  {
+    text: "See then that ye walk circumspectly, not as fools, but as wise, Redeeming the time, because the days are evil.",
+    isScripture: true,
+    ref: "Ephesians 5:15-16",
+  },
+  {
+    text: "Praying always with all prayer and supplication in the Spirit, and watching thereunto with all perseverance.",
+    isScripture: true,
+    ref: "Ephesians 6:18",
+  },
+
+  // --- HEBREWS (final) ---
+  {
+    text: "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets, Hath in these last days spoken unto us by his Son.",
+    isScripture: true,
+    ref: "Hebrews 1:1-2",
+  },
+  {
+    text: "Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power.",
+    isScripture: true,
+    ref: "Hebrews 1:3",
+  },
+  {
+    text: "How shall we escape, if we neglect so great salvation?",
+    isScripture: true,
+    ref: "Hebrews 2:3",
+  },
+  {
+    text: "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.",
+    isScripture: true,
+    ref: "Hebrews 4:14",
+  },
+  {
+    text: "For we have not an high priest which cannot be touched with the feeling of our infirmities.",
+    isScripture: true,
+    ref: "Hebrews 4:15",
+  },
+  {
+    text: "And being made perfect, he became the author of eternal salvation unto all them that obey him.",
+    isScripture: true,
+    ref: "Hebrews 5:9",
+  },
+  {
+    text: "By faith Abel offered unto God a more excellent sacrifice than Cain.",
+    isScripture: true,
+    ref: "Hebrews 11:4",
+  },
+  {
+    text: "By faith Enoch was translated that he should not see death.",
+    isScripture: true,
+    ref: "Hebrews 11:5",
+  },
+  {
+    text: "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.",
+    isScripture: true,
+    ref: "Hebrews 11:6",
+  },
+  {
+    text: "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house.",
+    isScripture: true,
+    ref: "Hebrews 11:7",
+  },
+  {
+    text: "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed.",
+    isScripture: true,
+    ref: "Hebrews 11:8",
+  },
+  {
+    text: "These all died in faith, not having received the promises, but having seen them afar off.",
+    isScripture: true,
+    ref: "Hebrews 11:13",
+  },
+  {
+    text: "They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented.",
+    isScripture: true,
+    ref: "Hebrews 11:37",
+  },
+  {
+    text: "Of whom the world was not worthy.",
+    isScripture: true,
+    ref: "Hebrews 11:38",
+  },
+  {
+    text: "For our God is a consuming fire.",
+    isScripture: true,
+    ref: "Hebrews 12:29",
+  },
+
+  // --- JAMES (final) ---
+  {
+    text: "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.",
+    isScripture: true,
+    ref: "James 1:12",
+  },
+  {
+    text: "Do not err, my beloved brethren. Every good gift and every perfect gift is from above, and cometh down from the Father of lights.",
+    isScripture: true,
+    ref: "James 1:16-17",
+  },
+  {
+    text: "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath.",
+    isScripture: true,
+    ref: "James 1:19",
+  },
+  {
+    text: "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world.",
+    isScripture: true,
+    ref: "James 1:27",
+  },
+  {
+    text: "Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?",
+    isScripture: true,
+    ref: "James 2:5",
+  },
+  {
+    text: "For as the body without the spirit is dead, so faith without works is dead also.",
+    isScripture: true,
+    ref: "James 2:26",
+  },
+  {
+    text: "For in many things we offend all. If any man offend not in word, the same is a perfect man.",
+    isScripture: true,
+    ref: "James 3:2",
+  },
+  {
+    text: "Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm.",
+    isScripture: true,
+    ref: "James 3:4",
+  },
+  {
+    text: "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!",
+    isScripture: true,
+    ref: "James 3:5",
+  },
+  {
+    text: "Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts.",
+    isScripture: true,
+    ref: "James 4:3",
+  },
+  {
+    text: "Speak not evil one of another, brethren.",
+    isScripture: true,
+    ref: "James 4:11",
+  },
+  {
+    text: "Grudge not one against another, brethren, lest ye be condemned.",
+    isScripture: true,
+    ref: "James 5:9",
+  },
+  {
+    text: "Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord.",
+    isScripture: true,
+    ref: "James 5:14",
+  },
+
+  // --- REVELATION (final) ---
+  {
+    text: "I know thy works: behold, I have set before thee an open door, and no man can shut it.",
+    isScripture: true,
+    ref: "Revelation 3:8",
+  },
+  {
+    text: "Because thou hast kept the word of my patience, I also will keep thee from the hour of temptation.",
+    isScripture: true,
+    ref: "Revelation 3:10",
+  },
+  {
+    text: "Behold, I come quickly: hold that fast which thou hast, that no man take thy crown.",
+    isScripture: true,
+    ref: "Revelation 3:11",
+  },
+  {
+    text: "Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out.",
+    isScripture: true,
+    ref: "Revelation 3:12",
+  },
+  {
+    text: "Blessing, and honour, and glory, and power, be unto him that sitteth upon the throne, and unto the Lamb for ever and ever.",
+    isScripture: true,
+    ref: "Revelation 5:13",
+  },
+  {
+    text: "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters.",
+    isScripture: true,
+    ref: "Revelation 7:17",
+  },
+  {
+    text: "Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ.",
+    isScripture: true,
+    ref: "Revelation 12:10",
+  },
+  {
+    text: "Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.",
+    isScripture: true,
+    ref: "Revelation 14:7",
+  },
+  {
+    text: "Great and marvellous are thy works, Lord God Almighty; just and true are thy ways, thou King of saints.",
+    isScripture: true,
+    ref: "Revelation 15:3",
+  },
+  {
+    text: "Who shall not fear thee, O Lord, and glorify thy name? for thou only art holy.",
+    isScripture: true,
+    ref: "Revelation 15:4",
+  },
+  {
+    text: "Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame.",
+    isScripture: true,
+    ref: "Revelation 16:15",
+  },
+  {
+    text: "For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication.",
+    isScripture: true,
+    ref: "Revelation 19:2",
+  },
+  {
+    text: "And he hath on his vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.",
+    isScripture: true,
+    ref: "Revelation 19:16",
+  },
+  {
+    text: "And I saw the dead, small and great, stand before God; and the books were opened.",
+    isScripture: true,
+    ref: "Revelation 20:12",
+  },
+  {
+    text: "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.",
+    isScripture: true,
+    ref: "Revelation 21:2",
+  },
+  {
+    text: "And he that sat upon the throne said, Behold, I make all things new.",
+    isScripture: true,
+    ref: "Revelation 21:5",
+  },
+  {
+    text: "And he said unto me, It is done. I am Alpha and Omega, the beginning and the end.",
+    isScripture: true,
+    ref: "Revelation 21:6",
+  },
+  {
+    text: "I will give unto him that is athirst of the fountain of the water of life freely.",
+    isScripture: true,
+    ref: "Revelation 21:6",
+  },
+  {
+    text: "He that overcometh shall inherit all things; and I will be his God, and he shall be my son.",
+    isScripture: true,
+    ref: "Revelation 21:7",
+  },
+  {
+    text: "And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof.",
+    isScripture: true,
+    ref: "Revelation 21:23",
+  },
+  {
+    text: "And the gates of it shall not be shut at all by day: for there shall be no night there.",
+    isScripture: true,
+    ref: "Revelation 21:25",
+  },
+  {
+    text: "And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him.",
+    isScripture: true,
+    ref: "Revelation 22:3",
+  },
+  {
+    text: "And they shall see his face; and his name shall be in their foreheads.",
+    isScripture: true,
+    ref: "Revelation 22:4",
+  },
+  {
+    text: "Behold, I come quickly; and my reward is with me, to give every man according as his work shall be.",
+    isScripture: true,
+    ref: "Revelation 22:12",
+  },
+  {
+    text: "I am Alpha and Omega, the beginning and the end, the first and the last.",
+    isScripture: true,
+    ref: "Revelation 22:13",
+  },
+  {
+    text: "For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.",
+    isScripture: true,
+    ref: "Revelation 22:15",
+  },
+  {
+    text: "I Jesus have sent mine angel to testify unto you these things in the churches.",
+    isScripture: true,
+    ref: "Revelation 22:16",
+  },
+
+  // ============================================================
+  // BATCH 4: NON-SCRIPTURES — DECEPTIVE, BIBLE-SOUNDING STATEMENTS
+  // ============================================================
+
+  // --- SOUNDS LIKE OLD TESTAMENT ---
+  {
+    text: "A cheerful giver shall be blessed of the LORD, and his storehouse shall never be empty.",
+    isScripture: false,
+    ref: "Invented — sounds like Proverbs but is not in the Bible",
+  },
+  {
+    text: "The hands of the diligent shall rule, but the hands of the slothful shall know poverty.",
+    isScripture: false,
+    ref: "Sounds like Proverbs 12:24 but is not the exact verse — the KJV says 'the diligent shall bear rule'",
+  },
+  {
+    text: "As iron is sharpened by the hammer, so the spirit of a man is refined by tribulation.",
+    isScripture: false,
+    ref: "Invented — sounds like Proverbs 27:17 but is not in the Bible",
+  },
+  {
+    text: "He who guards his tongue guards his soul, and he who opens it wide invites his own ruin.",
+    isScripture: false,
+    ref: "Invented — sounds like Proverbs but is not a scripture",
+  },
+  {
+    text: "The beginning of all wisdom is to know that thou art nothing without God.",
+    isScripture: false,
+    ref: "Invented — sounds like Proverbs/Ecclesiastes but is not in the Bible",
+  },
+  {
+    text: "Better a righteous man in a cottage than a wicked man in a palace.",
+    isScripture: false,
+    ref: "Invented — sounds like Proverbs 15:16-17 but is not a scripture",
+  },
+  {
+    text: "The man who walketh in uprightness shall not stumble, for the LORD holdeth his hand.",
+    isScripture: false,
+    ref: "Invented — sounds like Psalms/Proverbs but is not in the Bible",
+  },
+  {
+    text: "A gentle spirit healeth wounds that medicine cannot touch.",
+    isScripture: false,
+    ref: "Invented — sounds like Proverbs 17:22 region but is not in the Bible",
+  },
+  {
+    text: "Seek not the wisdom of the world, for it passeth away; seek only the wisdom that is from above.",
+    isScripture: false,
+    ref: "Invented — paraphrases James 3:17 and 1 Corinthians 1 but is not a direct verse",
+  },
+  {
+    text: "Let thine eyes be fixed on the LORD, and thy feet shall not wander into crooked paths.",
+    isScripture: false,
+    ref: "Invented — sounds like Proverbs 4 but is not in the Bible",
+  },
+  {
+    text: "A man's words reveal his heart; pay heed therefore to what floweth from thy lips.",
+    isScripture: false,
+    ref: "Invented — sounds like Matthew 12:34 / Proverbs but is not a scripture",
+  },
+  {
+    text: "As water cannot be held in an open hand, so time cannot be recovered once it is spent.",
+    isScripture: false,
+    ref: "Invented — sounds like Ecclesiastes but is not in the Bible",
+  },
+  {
+    text: "The mouth of the righteous is a well of life, but the mouth of the wicked concealeth poison.",
+    isScripture: false,
+    ref: "Invented — sounds like Proverbs 10:11 but is not the exact verse",
+  },
+  {
+    text: "Let not the sun find thee idle, for the night cometh wherein no man may labour.",
+    isScripture: false,
+    ref: "Invented conflation of John 9:4 and Ecclesiastes — not a scripture",
+  },
+  {
+    text: "The LORD will not be found by those who do not seek him with their whole heart and a willing spirit.",
+    isScripture: false,
+    ref: "Invented — sounds like Jeremiah 29:13 but is not the exact verse",
+  },
+  {
+    text: "He who riseth early to seek the LORD shall find him, and peace shall be his companion all the day.",
+    isScripture: false,
+    ref: "Invented — sounds biblical but is not in the Bible",
+  },
+  {
+    text: "As a candle shineth brightest in the darkest room, so the righteous shine brightest in a wicked generation.",
+    isScripture: false,
+    ref: "Invented — sounds like Matthew 5 / Philippians 2:15 but is not a scripture",
+  },
+  {
+    text: "Speak not of tomorrow as though it were promised to thee, for thy life is as a vapour that appeareth for a little while.",
+    isScripture: false,
+    ref: "Sounds like James 4:14 and Proverbs 27:1 but is not a direct verse",
+  },
+  {
+    text: "The fear of the LORD driveth out all other fears; the man who trembleth before God need tremble before no man.",
+    isScripture: false,
+    ref: "Invented — sounds like Proverbs / Isaiah but is not in the Bible",
+  },
+  {
+    text: "Where the Word of God is planted in the heart, no weed of sin can long remain.",
+    isScripture: false,
+    ref: "Invented — sounds like Matthew 13 / James 1:21 but is not a scripture",
+  },
+  {
+    text: "A pure heart is more precious to the LORD than any sacrifice made upon the altar.",
+    isScripture: false,
+    ref: "Invented — sounds like 1 Samuel 15:22 / Psalm 51 but is not a direct verse",
+  },
+  {
+    text: "The righteous man may fall seven times, but the LORD shall raise him up every time.",
+    isScripture: false,
+    ref: "Sounds like Proverbs 24:16 but is not the exact verse — the KJV says 'a just man falleth seven times, and riseth up again'",
+  },
+  {
+    text: "Let not wealth be thy god, lest God become thy stranger.",
+    isScripture: false,
+    ref: "Invented — sounds like Matthew 6 / 1 Timothy 6 but is not a scripture",
+  },
+  {
+    text: "Better is one day in the house of the LORD than ten thousand in the tents of the wicked.",
+    isScripture: false,
+    ref: "Sounds like Psalm 84:10 but is not the exact KJV wording — the verse says 'a day' not 'one day'",
+  },
+  {
+    text: "Blessed is he whose strength is in the LORD, for he shall not be moved though the mountains fall.",
+    isScripture: false,
+    ref: "Invented — sounds like Psalm 84:5 / Psalm 46 but is not a direct scripture",
+  },
+  {
+    text: "God hath not given thee a spirit of heaviness, but of praise, that thou mightest glorify his name.",
+    isScripture: false,
+    ref: "Conflation of Isaiah 61:3 and 2 Timothy 1:7 — not a single scripture verse",
+  },
+  {
+    text: "He who wanders far from the path of righteousness shall find no rest until he returneth to the LORD.",
+    isScripture: false,
+    ref: "Invented — sounds like Isaiah 48:22 / Luke 15 but is not a scripture",
+  },
+  {
+    text: "As a father pitieth a little child, so the LORD pitieth those who call upon his name.",
+    isScripture: false,
+    ref: "Sounds like Psalm 103:13 but is not the exact KJV wording — the verse says 'them that fear him'",
+  },
+  {
+    text: "The LORD heareth the cry of the humble and hideth not his face from those in affliction.",
+    isScripture: false,
+    ref: "Invented — sounds like Psalm 22:24 / Psalm 34 but is not a direct scripture",
+  },
+  {
+    text: "Trust not in thine own righteousness, for it is as filthy rags before a holy God.",
+    isScripture: false,
+    ref: "Paraphrase of Isaiah 64:6 — the verse says 'all our righteousnesses are as filthy rags', not a command",
+  },
+  {
+    text: "As the deer runneth to the brook in the heat of the day, so shall the soul of the righteous run to God.",
+    isScripture: false,
+    ref: "Invented expansion of Psalm 42:1 — not the exact verse",
+  },
+  {
+    text: "The LORD thy God shall go before thee as a shield; no arrow of the enemy shall find its mark.",
+    isScripture: false,
+    ref: "Invented — sounds like Psalm 91 / Deuteronomy 31 but is not a direct verse",
+  },
+  {
+    text: "Let thy light shine in the darkness, that men may look up and give glory unto God.",
+    isScripture: false,
+    ref: "Sounds like Matthew 5:16 but is not the exact KJV wording",
+  },
+  {
+    text: "A man who loves his brother loves God, and he who hateth his brother knoweth not the LORD.",
+    isScripture: false,
+    ref: "Sounds like 1 John 4:20 but is not the exact verse — the verse uses 'God' not 'the LORD'",
+  },
+
+  // --- SOUNDS LIKE NEW TESTAMENT ---
+  {
+    text: "For it is not by the arm of flesh that the kingdom of God is established, but by the Spirit.",
+    isScripture: false,
+    ref: "Invented — sounds like Zechariah 4:6 / 2 Chronicles 32:8 blended — not a single scripture",
+  },
+  {
+    text: "Whosoever calleth upon the name of the Lord in sincerity shall not be put to shame.",
+    isScripture: false,
+    ref: "Sounds like Romans 10:13 but is not the exact verse — 'in sincerity' is added",
+  },
+  {
+    text: "For the Lord loveth a cheerful heart, and a joyful spirit is a sweet offering before his throne.",
+    isScripture: false,
+    ref: "Invented — sounds like 2 Corinthians 9:7 / Philippians 4:4 but is not a scripture",
+  },
+  {
+    text: "Be not troubled by the things of this world, for the Father knoweth what thou hast need of before thou askest.",
+    isScripture: false,
+    ref: "Conflation of John 14:1 and Matthew 6:8 — not a single verse",
+  },
+  {
+    text: "In the fullness of time, God shall wipe away every sorrow and make all things right again.",
+    isScripture: false,
+    ref: "Sounds like Revelation 21:4 / Galatians 4:4 but is not the exact verse",
+  },
+  {
+    text: "Let the peace of Christ be thy anchor when the storms of life rage around thee.",
+    isScripture: false,
+    ref: "Invented — sounds like Colossians 3:15 / Hebrews 6:19 blended — not a scripture",
+  },
+  {
+    text: "For God so loved the world that he gave his only Son, that whosoever believeth shall never perish but have life everlasting.",
+    isScripture: false,
+    ref: "Close paraphrase of John 3:16 — not the exact KJV wording ('everlasting life' vs 'life everlasting' / missing 'begotten')",
+  },
+  {
+    text: "The spirit is willing but the flesh is weak; therefore pray without ceasing and faint not.",
+    isScripture: false,
+    ref: "Conflation of Matthew 26:41 and 1 Thessalonians 5:17 — not a single verse",
+  },
+  {
+    text: "Draw nigh unto the LORD with a clean heart and he will draw nigh unto thee with a willing hand.",
+    isScripture: false,
+    ref: "Expansion of James 4:8 — 'with a willing hand' is added, not in the verse",
+  },
+  {
+    text: "If ye love me, keep my commandments and walk in my ways, saith the Lord.",
+    isScripture: false,
+    ref: "Expansion of John 14:15 — 'and walk in my ways' is added, not in the verse",
+  },
+  {
+    text: "Fear not, little flock, for it is the Father's good pleasure to keep thee safe in his hand.",
+    isScripture: false,
+    ref: "Conflation of Luke 12:32 and John 10:29 — not a single scripture",
+  },
+  {
+    text: "Seek first the kingdom and his righteousness, and abundance shall be added unto you.",
+    isScripture: false,
+    ref: "Paraphrase of Matthew 6:33 — 'abundance' is not in the verse; the verse says 'all these things'",
+  },
+  {
+    text: "For where two or three are gathered in my name, my Spirit shall move mightily in their midst.",
+    isScripture: false,
+    ref: "Expansion of Matthew 18:20 — 'shall move mightily' is added, not in the verse",
+  },
+  {
+    text: "Blessed are those who hunger and thirst for righteousness, for they shall be filled to overflowing.",
+    isScripture: false,
+    ref: "Expansion of Matthew 5:6 — 'to overflowing' is added, not in the verse",
+  },
+  {
+    text: "Cast your cares upon the Lord, for he careth for you and will never leave you comfortless.",
+    isScripture: false,
+    ref: "Conflation of 1 Peter 5:7 and John 14:18 — not a single scripture",
+  },
+  {
+    text: "Resist the enemy and he shall flee, for greater is the Lord that is in thee than all the powers of darkness.",
+    isScripture: false,
+    ref: "Conflation of James 4:7 and 1 John 4:4 — not a single verse",
+  },
+  {
+    text: "For the grace of God is new every morning; his mercies are without number and his patience endureth forever.",
+    isScripture: false,
+    ref: "Conflation of Lamentations 3:22-23 and general theology — not a single verse",
+  },
+  {
+    text: "I am persuaded that neither life nor death nor any present circumstance can remove me from the love of God.",
+    isScripture: false,
+    ref: "Paraphrase of Romans 8:38-39 — not the exact KJV wording",
+  },
+  {
+    text: "Now unto the King eternal, immortal, invisible, and all-knowing, be glory and honour unto the ages.",
+    isScripture: false,
+    ref: "Sounds like 1 Timothy 1:17 but is not the exact verse — the KJV says 'the only wise God'",
+  },
+  {
+    text: "For he that humbleth himself before the Lord shall be lifted up, and he that exalteth himself shall be brought low.",
+    isScripture: false,
+    ref: "Conflation of James 4:10 and Luke 14:11 — not a single verse",
+  },
+
+  // --- SOUNDS LIKE SCRIPTURE: ONLINE / DEVOTIONAL STYLE ---
+  {
+    text: "God sees your struggle even when no one else does; his eyes are upon you and he will not forget.",
+    isScripture: false,
+    ref: "Common online Christian post — not a Bible verse",
+  },
+  {
+    text: "You were not made to carry this burden alone; lay it at the feet of Jesus and find thy rest.",
+    isScripture: false,
+    ref: "Online devotional paraphrase — not scripture",
+  },
+  {
+    text: "Even in your darkest valley, the Lord goes before you, behind you, and beside you.",
+    isScripture: false,
+    ref: "Online Christian saying — not a Bible verse; vaguely alludes to Psalm 23 and Deuteronomy 31",
+  },
+  {
+    text: "His plans for you are higher than the mountains and deeper than the sea.",
+    isScripture: false,
+    ref: "Online Christian post — not scripture; paraphrases Isaiah 55:9",
+  },
+  {
+    text: "What the enemy meant to break you, the Lord will use to build you.",
+    isScripture: false,
+    ref: "Online devotional — not a Bible verse; loosely paraphrases Genesis 50:20",
+  },
+  {
+    text: "You are not defined by your past, for the Lord has made you a new creation.",
+    isScripture: false,
+    ref: "Online Christian post — not a direct verse; loosely based on 2 Corinthians 5:17",
+  },
+  {
+    text: "God is never shocked by where you are; he knew you before you were formed and still chose you.",
+    isScripture: false,
+    ref: "Online devotional — not a scripture; loosely combines Jeremiah 1:5 with theology",
+  },
+  {
+    text: "He will restore what the years have stolen and pour out blessings you cannot contain.",
+    isScripture: false,
+    ref: "Online Christian saying — not a scripture; paraphrases Joel 2:25 and Malachi 3:10",
+  },
+  {
+    text: "When God is silent, he is not still; he is working all things together for your good.",
+    isScripture: false,
+    ref: "Online Christian post — not scripture; based loosely on Romans 8:28",
+  },
+  {
+    text: "The same God who calmed the storm is the one standing with you in the middle of yours.",
+    isScripture: false,
+    ref: "Online devotional — not scripture; alludes to Mark 4:39",
+  },
+  {
+    text: "Your prayers are not lost in the air; they are gathered before the throne of the Almighty.",
+    isScripture: false,
+    ref: "Online Christian post — not scripture; loosely alludes to Revelation 5:8",
+  },
+  {
+    text: "When you feel unworthy, remember that the Lord chose you not because of what you have done but because of who he is.",
+    isScripture: false,
+    ref: "Online devotional — not scripture",
+  },
+  {
+    text: "Run with patience the race set before you and let nothing steal your crown.",
+    isScripture: false,
+    ref: "Conflation of Hebrews 12:1 and Revelation 3:11 — not a single verse",
+  },
+  {
+    text: "The Lord says to you today: I have not forgotten thee; thou art engraved upon the palms of my hands.",
+    isScripture: false,
+    ref: "Paraphrase of Isaiah 49:16 presented as a direct word — not the exact verse",
+  },
+  {
+    text: "God does not call the perfect; he perfects those he calls.",
+    isScripture: false,
+    ref: "Common Christian saying — not scripture",
+  },
+  {
+    text: "Before you were born, God already knew your name, your path, and your purpose.",
+    isScripture: false,
+    ref: "Online devotional — not scripture; loosely combines Jeremiah 1:5 and Psalm 139",
+  },
+  {
+    text: "The testimony of the righteous is their life; let your life preach what your mouth declares.",
+    isScripture: false,
+    ref: "Online Christian saying — not scripture",
+  },
+  {
+    text: "Be not weary in doing good, for in due season the harvest of your faithfulness shall come.",
+    isScripture: false,
+    ref: "Paraphrase of Galatians 6:9 — not the exact KJV wording",
+  },
+  {
+    text: "When you cannot trace God's hand, trust his heart, for he doeth all things well.",
+    isScripture: false,
+    ref: "Common Christian saying — attributed to various; not scripture",
+  },
+  {
+    text: "The Lord thy God walks with thee in the fire and will bring thee out without the smell of smoke.",
+    isScripture: false,
+    ref: "Paraphrase of Daniel 3:27 — not the exact verse, applied generally",
+  },
+  {
+    text: "Thy God is a God of the second chance; he raiseth the fallen and restoreth the broken.",
+    isScripture: false,
+    ref: "Online devotional saying — not a direct scripture",
+  },
+  {
+    text: "The enemy may have come like a flood, but the Lord shall raise up a standard against him.",
+    isScripture: false,
+    ref: "Paraphrase of Isaiah 59:19 — not the exact KJV wording",
+  },
+  {
+    text: "Look not at the size of the mountain before you; look at the size of the God within you.",
+    isScripture: false,
+    ref: "Online Christian post — not scripture",
+  },
+  {
+    text: "What you are going through is not wasted; God is using every trial as a chisel to shape you.",
+    isScripture: false,
+    ref: "Online devotional — not scripture",
+  },
+  {
+    text: "He who is faithful in little things shall be trusted with great things, for this is the way of the Kingdom.",
+    isScripture: false,
+    ref: "Paraphrase of Luke 16:10 / Matthew 25:21 — not the exact verse",
+  },
+  {
+    text: "For the LORD thy God shall fight for thee; thou needest only to be still and trust.",
+    isScripture: false,
+    ref: "Conflation of Exodus 14:14 and Psalm 46:10 — not a single verse",
+  },
+  {
+    text: "The joy of the LORD is not dependent on circumstances; it is the anchor of the believer's soul.",
+    isScripture: false,
+    ref: "Devotional expansion of Nehemiah 8:10 — not a direct scripture",
+  },
+  {
+    text: "Let nothing trouble thee and nothing frighten thee; all things pass; God alone does not change.",
+    isScripture: false,
+    ref: "Saint Teresa of Ávila, Bookmark — not scripture",
+  },
+  {
+    text: "Even when you cannot feel him, God has not moved; he is closer than your next breath.",
+    isScripture: false,
+    ref: "Online Christian saying — not scripture",
+  },
+  {
+    text: "The Lord will not give you more than your faith can bear, for he weigheth the burdens of his children.",
+    isScripture: false,
+    ref: "Invented — misapplies 1 Corinthians 10:13 beyond its scope; not a scripture",
+  },
+  {
+    text: "He numbers your tears and keeps them in a bottle; not one sorrow goes unseen before his throne.",
+    isScripture: false,
+    ref: "Paraphrase of Psalm 56:8 — not the exact KJV wording",
+  },
+
+  // --- DECEPTIVE: SOUND LIKE EPISTLES ---
+  {
+    text: "Let love be without dissimulation; abhor that which is evil and hold fast to that which bringeth life.",
+    isScripture: false,
+    ref: "Expansion of Romans 12:9 — 'that which bringeth life' is added; the KJV ends at 'cleave to that which is good'",
+  },
+  {
+    text: "For the Lord is not slow in keeping his promise; a thousand years in his sight are as a single day.",
+    isScripture: false,
+    ref: "Paraphrase of 2 Peter 3:8-9 — merges two verses; not exact KJV wording",
+  },
+  {
+    text: "Stand therefore, having girded your loins with truth and put on the breastplate of faith and love.",
+    isScripture: false,
+    ref: "Conflation of Ephesians 6:14 and 1 Thessalonians 5:8 — not a single verse",
+  },
+  {
+    text: "For the eyes of the Lord run to and fro throughout the whole earth, seeking those whose hearts are fully his.",
+    isScripture: false,
+    ref: "Paraphrase of 2 Chronicles 16:9 — not the exact wording; also slightly altered meaning",
+  },
+  {
+    text: "Forasmuch as ye know that your labour in the Lord is not in vain, be ye steadfast and hold fast your confession.",
+    isScripture: false,
+    ref: "Conflation of 1 Corinthians 15:58 and Hebrews 10:23 — not a single verse",
+  },
+  {
+    text: "Being confident of this, that the good work begun in thee by the Spirit shall be completed in the day of his return.",
+    isScripture: false,
+    ref: "Paraphrase of Philippians 1:6 — not exact KJV wording; 'by the Spirit' is added",
+  },
+  {
+    text: "For we are not of those who draw back unto perdition, but of those who believe to the saving of the soul.",
+    isScripture: false,
+    ref: "Paraphrase of Hebrews 10:39 — not exact KJV wording",
+  },
+  {
+    text: "Now unto him that is able to keep thee from stumbling and to present thee blameless, be all glory.",
+    isScripture: false,
+    ref: "Paraphrase of Jude 1:24 — not exact KJV wording",
+  },
+  {
+    text: "And we know that the testing of your faith worketh patience, and patience its perfect work in thee.",
+    isScripture: false,
+    ref: "Paraphrase of James 1:3-4 — not exact KJV wording",
+  },
+  {
+    text: "For the LORD shall be thy everlasting light and the days of thy mourning shall be ended.",
+    isScripture: false,
+    ref: "Paraphrase of Isaiah 60:20 — not exact KJV wording",
+  },
+  {
+    text: "Let the word of Christ dwell in you richly, with singing and making melody in your hearts to the Lord.",
+    isScripture: false,
+    ref: "Paraphrase of Colossians 3:16 — not exact KJV wording",
+  },
+  {
+    text: "Herein is love: not that we loved God but that he first sent his Son to be the propitiation for our sins.",
+    isScripture: false,
+    ref: "Paraphrase of 1 John 4:10 — not exact KJV wording",
+  },
+  {
+    text: "The Lord is my light and my salvation; of what shall I be afraid, for the LORD is my stronghold?",
+    isScripture: false,
+    ref: "Paraphrase of Psalm 27:1 — not exact KJV wording; the verse says 'whom shall I fear' not 'of what'",
+  },
+  {
+    text: "Peace I leave with you, my peace I give unto you; let not your hearts be troubled nor afraid.",
+    isScripture: false,
+    ref: "Paraphrase of John 14:27 — not exact; the KJV says 'neither let it be afraid' not 'nor afraid'",
+  },
+
+  // --- RELIGIOUS-SOUNDING POPULAR SAYINGS ---
+  {
+    text: "God does not always give us what we want, but he always gives us what we need.",
+    isScripture: false,
+    ref: "Popular saying — not scripture; loosely based on Philippians 4:19",
+  },
+  {
+    text: "The same hands that made the stars hold your future.",
+    isScripture: false,
+    ref: "Popular Christian quote — not scripture",
+  },
+  {
+    text: "A prayer without faith is like a letter without a stamp — it never reaches its destination.",
+    isScripture: false,
+    ref: "Popular religious saying — not scripture",
+  },
+  {
+    text: "Faith is not believing God can; it is knowing that he will.",
+    isScripture: false,
+    ref: "Popular Christian saying — not scripture",
+  },
+  {
+    text: "God meets you where you are, but loves you too much to leave you there.",
+    isScripture: false,
+    ref: "Popular Christian quote — attributed to various; not scripture",
+  },
+  {
+    text: "The Christian life is not about being perfect; it is about getting up every time you fall.",
+    isScripture: false,
+    ref: "Common Christian saying — not scripture",
+  },
+  {
+    text: "When Satan reminds you of your past, remind him of his future.",
+    isScripture: false,
+    ref: "Popular Christian saying — not scripture",
+  },
+  {
+    text: "Prayer is not a spare wheel you pull out when in trouble; it is the steering wheel that guides you daily.",
+    isScripture: false,
+    ref: "Popular Christian saying — not scripture",
+  },
+  {
+    text: "A Bible that is worn and tattered is the mark of a life that is not.",
+    isScripture: false,
+    ref: "Popular Christian saying — not scripture",
+  },
+  {
+    text: "Give God what is broken; he is better at fixing things than you are.",
+    isScripture: false,
+    ref: "Popular Christian saying — not scripture",
+  },
+  {
+    text: "The best relationship is one where you love each other more than you need each other, rooted in God.",
+    isScripture: false,
+    ref: "Online Christian relationship post — not scripture",
+  },
+  {
+    text: "If God places something in your heart, he will provide the means to accomplish it.",
+    isScripture: false,
+    ref: "Popular Christian saying — not scripture",
+  },
+  {
+    text: "A man who prays in private need not boast in public, for his Father seeth in secret.",
+    isScripture: false,
+    ref: "Paraphrase of Matthew 6:6 — not the exact verse",
+  },
+  {
+    text: "Put God first and everything else will find its proper place.",
+    isScripture: false,
+    ref: "Popular Christian saying — loosely based on Matthew 6:33 but not scripture",
+  },
+  {
+    text: "To pray is to inhale the presence of God; to praise is to exhale his glory.",
+    isScripture: false,
+    ref: "Popular devotional saying — not scripture",
+  },
+  {
+    text: "The LORD shall be praised for the things yet to come, not only for those already received.",
+    isScripture: false,
+    ref: "Invented — sounds like Psalms but is not in the Bible",
+  },
+  {
+    text: "Storms do not last forever; even Noah's flood eventually ceased by the mercy of God.",
+    isScripture: false,
+    ref: "Devotional application of Genesis 8 — not a scripture verse",
+  },
+  {
+    text: "Do not fear the giants in your land; the LORD who gave thee the promise will give thee the victory.",
+    isScripture: false,
+    ref: "Devotional paraphrase of Numbers 13-14 / Joshua — not a single scripture",
+  },
+  {
+    text: "Thou art not forgotten in thy wilderness; manna shall fall and water shall spring from the rock.",
+    isScripture: false,
+    ref: "Devotional application of Exodus 16-17 — not a single verse",
+  },
+  {
+    text: "The LORD thy God turned the curse into a blessing, for he loveth thee.",
+    isScripture: false,
+    ref: "Paraphrase of Deuteronomy 23:5 — not the exact verse; applied generally",
+  },
+  {
+    text: "The same God who shut the mouths of lions shall shut the mouths of your accusers.",
+    isScripture: false,
+    ref: "Devotional application of Daniel 6 — not a scripture verse",
+  },
+  {
+    text: "Every mountain before thee shall become a plain at the word of the LORD thy God.",
+    isScripture: false,
+    ref: "Paraphrase of Zechariah 4:7 — not the exact verse; applied generally",
+  },
+  {
+    text: "Weep not for what is behind thee; the LORD has greater things before thee than all thou hast yet seen.",
+    isScripture: false,
+    ref: "Invented — sounds like Isaiah / Jeremiah but is not in the Bible",
+  },
+  {
+    text: "The LORD doth not delight in the strength of a horse, neither in the legs of a man, but in those who fear him.",
+    isScripture: false,
+    ref: "Paraphrase of Psalm 147:10-11 — not exact KJV wording",
+  },
+  {
+    text: "Thou wilt keep him in perfect peace whose mind is stayed on thee and whose trust is in thy name.",
+    isScripture: false,
+    ref: "Paraphrase of Isaiah 26:3 — not exact KJV wording; 'whose trust is in thy name' is added",
+  },
+  {
+    text: "The LORD hath been thy dwelling place in all generations and shall remain so unto the end.",
+    isScripture: false,
+    ref: "Paraphrase of Psalm 90:1 — not exact KJV wording; 'and shall remain' is added",
+  },
+  {
+    text: "He who has called thee is faithful; he will not begin a work and abandon it midway.",
+    isScripture: false,
+    ref: "Conflation of 1 Thessalonians 5:24 and Philippians 1:6 — not a single verse",
+  },
+  {
+    text: "For eye hath not seen, nor ear heard, what the LORD hath prepared for those who love him and walk in his ways.",
+    isScripture: false,
+    ref: "Paraphrase of 1 Corinthians 2:9 — 'and walk in his ways' is added; not exact KJV",
+  },
+  {
+    text: "As a shepherd leaveth the ninety-nine to find the one that is lost, so the LORD shall leave no soul behind.",
+    isScripture: false,
+    ref: "Expansion of Luke 15:4 — 'shall leave no soul behind' is not in the verse",
+  },
+  {
+    text: "Let not sin have dominion over thee, for thou art not under law but under the grace of an abundant God.",
+    isScripture: false,
+    ref: "Paraphrase of Romans 6:14 — 'an abundant God' is added; not exact KJV wording",
+  },
+  {
+    text: "The LORD shall supply all that thou lackest according to his infinite riches in glory.",
+    isScripture: false,
+    ref: "Paraphrase of Philippians 4:19 — not exact KJV wording",
+  },
 ];

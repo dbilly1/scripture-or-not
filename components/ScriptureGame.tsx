@@ -12,12 +12,17 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
+// function generateRound(): Statement[] {
+//   const selected = new Set<number>();
+//   while (selected.size < 10) {
+//     selected.add(Math.floor(Math.random() * ALL_STATEMENTS.length));
+//   }
+//   return [...selected].map((i) => ALL_STATEMENTS[i]);
+// }
+
 function generateRound(): Statement[] {
-  const selected = new Set<number>();
-  while (selected.size < 10) {
-    selected.add(Math.floor(Math.random() * ALL_STATEMENTS.length));
-  }
-  return [...selected].map((i) => ALL_STATEMENTS[i]);
+  const shuffled = [...ALL_STATEMENTS].sort(() => Math.random() - 0.5);
+  return shuffled.slice(0, 10);
 }
 
 const MESSAGES = [
