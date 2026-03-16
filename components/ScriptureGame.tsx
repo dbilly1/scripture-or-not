@@ -289,7 +289,7 @@ export default function ScriptureGame() {
           <p className="text-[18px] text-[#4a3020] my-5 mb-8 leading-[1.5] italic">
             {resultMsg}
           </p>
-          <PrimaryButton onClick={startGame}>Play Again ↩</PrimaryButton>
+          <PrimaryButton onClick={startGame}>Play Again</PrimaryButton>
         </div>
       )}
     </div>
