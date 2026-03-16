@@ -4,6 +4,29 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Scripture or Not?",
   description: "Can you tell a real Bible verse from a convincing fake?",
+
+  openGraph: {
+    title: "Scripture or Not?",
+    description: "Can you tell a real Bible verse from a convincing fake?",
+    // url: "https://yourdomain.com",
+    siteName: "Scripture or Not?",
+    images: [
+      {
+        url: "/preview.png",
+        width: 1200,
+        height: 630,
+        alt: "Scripture or Not Game",
+      },
+    ],
+    type: "website",
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Scripture or Not?",
+    description: "Can you tell a real Bible verse from a convincing fake?",
+    images: ["/preview.png"],
+  },
 };
 
 export default function RootLayout({
