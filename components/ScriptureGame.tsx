@@ -164,7 +164,7 @@ export default function ScriptureGame() {
             ✦
           </div>
           <p className="text-[#9c7c5c] font-sans text-sm tracking-[2px] uppercase mt-4">
-            Preparing your round…
+            Are you ready?
           </p>
         </div>
       )}
