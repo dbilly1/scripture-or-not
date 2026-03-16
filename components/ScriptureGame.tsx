@@ -32,28 +32,59 @@ const MESSAGES = [
   { min: 0, text: "Keep studying — the Word is worth knowing! 🙏" },
 ];
 
-type Phase = "idle" | "loading" | "playing" | "result";
+type Phase = "idle" | "loading" | "playing" | "result" | "review";
 type Flash = "correct" | "wrong" | null;
 
 /* Reusable primary button */
 function PrimaryButton({
   onClick,
   children,
+  className = "",
 }: {
   onClick: () => void;
   children: React.ReactNode;
+  className?: string;
 }) {
   return (
     <button
       onClick={onClick}
-      className="
+      className={`
         px-10 py-4 rounded-[14px] border-none cursor-pointer
         bg-[linear-gradient(135deg,#b07d50,#d4a574)] text-white
         text-lg font-bold font-serif tracking-[0.3px]
         shadow-[0_4px_16px_rgba(176,125,80,0.35)]
         transition-all duration-150
         hover:-translate-y-0.5 hover:shadow-[0_8px_24px_rgba(176,125,80,0.45)]
-      "
+        ${className}
+      `}
+    >
+      {children}
+    </button>
+  );
+}
+
+/* Outline button for secondary actions */
+function OutlineButton({
+  onClick,
+  children,
+  className = "",
+}: {
+  onClick: () => void;
+  children: React.ReactNode;
+  className?: string;
+}) {
+  return (
+    <button
+      onClick={onClick}
+      className={`
+        px-10 py-4 rounded-[14px] cursor-pointer
+        bg-transparent text-[#b07d50]
+        border-2 border-[#b07d50]
+        text-lg font-bold font-serif tracking-[0.3px]
+        transition-all duration-150
+        hover:-translate-y-0.5 hover:bg-[#b07d50]/10
+        ${className}
+      `}
     >
       {children}
     </button>
@@ -67,10 +98,12 @@ export default function ScriptureGame() {
   const [phase, setPhase] = useState<Phase>("idle");
   const [flash, setFlash] = useState<Flash>(null);
   const [cardKey, setCardKey] = useState(0);
+  const [answers, setAnswers] = useState<boolean[]>([]);
 
   const startGame = useCallback(() => {
     setPhase("loading");
     setFlash(null);
+    setAnswers([]);
     setTimeout(() => {
       setStatements(generateRound());
       setCurrent(0);
@@ -85,6 +118,7 @@ export default function ScriptureGame() {
     const correct = isScriptureGuess === statements[current].isScripture;
     setFlash(correct ? "correct" : "wrong");
     if (correct) setScore((s) => s + 1);
+    setAnswers((a) => [...a, correct]);
     setTimeout(() => {
       setFlash(null);
       if (current + 1 >= 10) {
@@ -93,7 +127,7 @@ export default function ScriptureGame() {
         setCurrent((c) => c + 1);
         setCardKey((k) => k + 1);
       }
-    }, 1000);
+    }, 600);
   };
 
   const finalScore = phase === "result" ? score : 0;
@@ -286,10 +320,74 @@ export default function ScriptureGame() {
             {finalScore}
             <span className="text-[36px] text-[#9c7c5c]">/10</span>
           </div>
-          <p className="text-[18px] text-[#4a3020] my-5 mb-8 leading-[1.5] italic">
+          <p className="text-[18px] text-[#4a3020] my-5 mb-6 leading-[1.5] italic">
             {resultMsg}
           </p>
-          <PrimaryButton onClick={startGame}>Play Again ✦ </PrimaryButton>
+          <div className="flex flex-col items-center gap-3 w-full max-w-[260px] mx-auto">
+            <PrimaryButton onClick={startGame} className="w-full">Play Again ✦</PrimaryButton>
+            <OutlineButton onClick={() => setPhase("review")} className="w-full">
+              View Results 📋
+            </OutlineButton>
+          </div>
+        </div>
+      )}
+
+      {/* ── REVIEW ── */}
+      {phase === "review" && (
+        <div className="w-full max-w-[600px] animate-slide-up">
+          <div className="text-center mb-6">
+            <div className="text-[13px] tracking-[3px] text-[#9c7c5c] uppercase font-sans mb-1">
+              Round Review
+            </div>
+            <p className="text-[#8a6848] font-sans text-sm">
+              {score} / 10 correct
+            </p>
+          </div>
+
+          <div className="flex flex-col gap-3 mb-8">
+            {statements.map((s, i) => {
+              const got = answers[i];
+              return (
+                <div
+                  key={i}
+                  className={`
+                    flex gap-4 items-start p-4 rounded-[16px] border-2
+                    ${got ? "bg-[#e8f5e9] border-[#81c784]" : "bg-[#fce8e8] border-[#e57373]"}
+                  `}
+                >
+                  {/* Result icon */}
+                  <div
+                    className={`
+                      shrink-0 w-8 h-8 rounded-full flex items-center justify-center
+                      font-bold font-sans text-sm mt-0.5
+                      ${got ? "bg-[#81c784] text-[#1b5e20]" : "bg-[#e57373] text-[#7f0000]"}
+                    `}
+                  >
+                    {got ? "✓" : "✗"}
+                  </div>
+
+                  {/* Statement + label */}
+                  <div className="flex-1 text-left">
+                    <p className="m-0 italic text-[15px] text-[#2c1a0e] leading-[1.6]">
+                      {s.text}
+                    </p>
+                    <p className="m-0 mt-1 font-sans text-[13px] text-[#6a5040]">
+                      {s.isScripture
+                        ? `📖 Scripture — ${s.ref}`
+                        : `✗ Not from the Bible — ${s.ref}`}
+                    </p>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+
+          <div className="flex flex-col items-center gap-3 w-full max-w-[260px] mx-auto">
+            <PrimaryButton onClick={startGame} className="w-full">Play Again ✦</PrimaryButton>
+            <OutlineButton onClick={() => setPhase("result")} className="w-full">
+              ← Back to Score
+            </OutlineButton>
+          </div>
         </div>
       )}
     </div>
