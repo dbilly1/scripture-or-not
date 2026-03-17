@@ -324,8 +324,13 @@ export default function ScriptureGame() {
             {resultMsg}
           </p>
           <div className="flex flex-col items-center gap-3 w-full max-w-[260px] mx-auto">
-            <PrimaryButton onClick={startGame} className="w-full">Play Again ✦</PrimaryButton>
-            <OutlineButton onClick={() => setPhase("review")} className="w-full">
+            <PrimaryButton onClick={startGame} className="w-full">
+              Play Again ✦
+            </PrimaryButton>
+            <OutlineButton
+              onClick={() => setPhase("review")}
+              className="w-full"
+            >
               View Results 📋
             </OutlineButton>
           </div>
@@ -383,8 +388,13 @@ export default function ScriptureGame() {
           </div>
 
           <div className="flex flex-col items-center gap-3 w-full max-w-[260px] mx-auto">
-            <PrimaryButton onClick={startGame} className="w-full">Play Again ✦</PrimaryButton>
-            <OutlineButton onClick={() => setPhase("result")} className="w-full">
+            <PrimaryButton onClick={startGame} className="w-full">
+              Play Again ✦
+            </PrimaryButton>
+            <OutlineButton
+              onClick={() => setPhase("result")}
+              className="w-full"
+            >
               ← Back to Score
             </OutlineButton>
           </div>
